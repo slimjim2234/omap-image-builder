@@ -1,3 +1,5 @@
+Optimized for mac
+
 Scripts to support customized image generation for many arm systems
 
 BeagleBoard branch:
